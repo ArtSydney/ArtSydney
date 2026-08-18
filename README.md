@@ -1,16 +1,16 @@
-## Hi there 👋
+# ArtSydney
 
-<!--
-**ArtSydney/ArtSydney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### [Art Openings Sydney](https://artsydney.github.io/art-openings-syd/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exhibition listings, openings and gallery events across Sydney. Sourced from gallery websites, Instagram, Art Almanac, City of Sydney and more. Includes a full gallery directory with Instagram handles, addresses and maps.
+
+---
+
+### [Open Calls & Grants](https://artsydney.github.io/art-grants-dashboard/)
+
+Australian art prizes, grants, residencies and open calls — classified, deduplicated and tracked with deadline alerts.
+
+---
+
